@@ -1,0 +1,29 @@
+{
+  "name": "habeeb-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Techmxster",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord-giveaways": "^4.0.2",
+    "discord.js": "^12.1.1",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.9",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.6",
+    "relevant-urban": "^2.0.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.0.5",
+    "urban": "^0.3.2"
+  }
+}
