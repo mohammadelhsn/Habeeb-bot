@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "common-tags": "^1.8.0",
-    "dateformat": "^3.0.3",
+    "dateformat": "^4.5.1",
     "discord-giveaways": "^4.0.2",
     "discord.js": "^12.1.1",
     "fs": "0.0.1-security",
@@ -23,7 +23,7 @@
     "nodemon": "^2.0.6",
     "relevant-urban": "^2.0.0",
     "snekfetch": "^4.0.4",
-    "superagent": "^5.0.5",
+    "superagent": "^6.1.0",
     "urban": "^0.3.2"
   }
 }
