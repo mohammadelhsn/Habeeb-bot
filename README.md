@@ -9,6 +9,7 @@ A [Discord](https://discord.com) bot using [Discord.js](https://discord.js.org/#
 | Technology | Icon                                                              |
 | ---------- | ----------------------------------------------------------------- |
 | Discord.js | ![React](https://go-skill-icons.vercel.app/api/icons?i=discordjs) |
+| Discord Bots | ![React](https://go-skill-icons.vercel.app/api/icons?i=discordbots) |
 | JavaScript | ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=js)   |
 | NodeJS     | ![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs)   |
 
