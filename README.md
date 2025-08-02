@@ -1,11 +1,23 @@
-# Habeeb-bot
+# Habeeb-Bot
 
-A [Discord](https://discord.com) bot using [Discord.js](https://discord.js.org/#/) | Followed [this youtube series](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj) Some commands were developped by me, the rest can be found in the YT series
+A [Discord](https://discord.com) bot using [Discord.js](https://discord.js.org/#/) | Followed [this youtube series](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj) Some commands were developed by me, the rest can be found in the YT series
 
-## Invite the bot
+> ⚠️ **Note**: This project is no longer being maintained. It was primarily created for learning and experimentation.
 
-[Invite me](https://discord.com/oauth2/authorize?client_id=779801548489621554&scope=bot&permissions=8)
+## Stack
 
-## Errors
+| Technology | Icon                                                              |
+| ---------- | ----------------------------------------------------------------- |
+| Discord.js | ![React](https://go-skill-icons.vercel.app/api/icons?i=discordjs) |
+| JavaScript | ![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=js)   |
+| NodeJS     | ![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs)   |
 
-Contact me Tech!#0620 (398264990567628812)
+## Features
+
+- Basic Command Handling
+- Custom Commands mixed with those from the tutorial
+- Built with modular structure for scalability
+
+## Status
+
+🚫 Archived – This project is no longer actively developed or maintained. You're welcome to explore, fork, or build upon it for your own projects.
